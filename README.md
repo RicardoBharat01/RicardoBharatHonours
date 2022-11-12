@@ -6,7 +6,7 @@ Git Repository contains Source Code(for Actual Real Time System as well as the S
 
 OneDrive Shared Folder contains the .exe Application files(Actual Real Time System as well as the System working on a Sample Video) of the System and other files needed to run the Application.
 
-## A. Git Repository 
+## A. Git Repository (Source Code and Dataset + Other Resources Needed)
 Available At:
         https://github.com/RicardoBharat01/RicardoBharatHonours.git
 
