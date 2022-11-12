@@ -52,7 +52,7 @@ pip install numpy
 pip install --upgrade pip
 pip install tensorflow
 pip install imutils
-pip install playsound
+pip install playsound==1.2.2
  ```
 iv.You can then navigate to the directory/folder where these files are stored and run the python code (Python Version:3.10).
 
