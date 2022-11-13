@@ -4,7 +4,7 @@ This ReadME.md describes the contents of the Git Repository (Section A) as well 
 
 Git Repository contains Source Code(for Actual Real Time System as well as the System working on a Sample Video) for System and Model Construction, Dataset used for Model Construction and other files needed to run the source code in Python Enviroment.
 
-OneDrive Shared Folder contains the .exe Application files(Actual Real Time System as well as the System working on a Sample Video) of the System and other files needed to run the Application.
+OneDrive Shared Folder contains the .exe Application files(Actual Real Time System as well as the System working on a Sample Video) of the System and other files needed to run the Application. and my other files  for project
 
 ## A. Git Repository 
 Available At:
@@ -62,13 +62,13 @@ v.Ensure that "SampleVideo.mp4", "PotholeDetected.mp3" and "pothole_classifier_f
 vii.Ensure that  "PotholeDetected.mp3" and "pothole_classifier_final.model" is in the same directory/folder as "RealTimePredictor.py"
     before running the Real Time Pothole Predicting System("RealTimePredictor.py"). 
         
-## B. OneDrive Application Files(.exe files) + Presentation Video
+## B. OneDrive Application Files(.exe files) + Presentation Video + dataset + Source Code
 Available at:
-        https://stuukznac-my.sharepoint.com/:f:/g/personal/219014175_stu_ukzn_ac_za/Epqi5Q70AbtFgKBH7bgYcFcB2bbfmE4cSwpE4aQySLXyjw?e=vdW23s
+        
         
 (Link Expires on 12/12/2022)
 
-### 1."RicardoBharatHonours EXE Files for PDS" Folder
+### 1."Ricardo Bharat Honours EXE Files" Folder
 
 This folder contains 6 items:
     
