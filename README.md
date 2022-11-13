@@ -4,7 +4,7 @@ This ReadME.md describes the contents of the Git Repository (Section A) as well 
 
 Git Repository contains Source Code(for Actual Real Time System as well as the System working on a Sample Video) for System and Model Construction, Dataset used for Model Construction and other files needed to run the source code in Python Enviroment.
 
-OneDrive Shared Folder contains the .exe Application files(Actual Real Time System as well as the System working on a Sample Video) of the System and other files needed to run the Application. and my other files  for project
+OneDrive Shared Folder contains the .exe Application files(Actual Real Time System as well as the System working on a Sample Video) of the System and other files needed to run the Application.It also contains my source code,dataset presentation and paper the link is provided in the learn submission and submission comments.
 
 ## A. Git Repository 
 Available At:
