@@ -10,7 +10,7 @@ OneDrive Shared Folder contains the .exe Application files(Actual Real Time Syst
 Available At:
         https://github.com/RicardoBharat01/RicardoBharatHonours.git
 
-### 1."Pohole Dataset" Folder
+### 1."Pothole Dataset" Folder
 
 This folder contains the images used to train the Convolutional Neural Network.
 It contains images of the two classes, namely Potholes and Plain Road Images.
@@ -63,7 +63,7 @@ vii.Ensure that  "PotholeDetected.mp3" and "pothole_classifier_final.model" is i
     before running the Real Time Pothole Predicting System("RealTimePredictor.py"). 
         
 ## B. OneDrive Application Files(.exe files) + Presentation Video + dataset + Source Code
-Available at:
+Available in learn read me file:
         
         
 (Link Expires on 12/12/2022)
